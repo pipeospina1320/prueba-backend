@@ -10,3 +10,7 @@
 # development
 $ docker-compose up -d
 ```
+
+## Documentacion en swagger
+
+1. para acceder a la documentacion ingresar a la URL http://localhost:3000/api
